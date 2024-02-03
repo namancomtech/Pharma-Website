@@ -3,11 +3,8 @@
 
 
 #header{
-    display: flex;
-    justify-content:center;
-    align-items: center;
-
     position: relative; 
+
     background-color: rgb(120, 120, 250);
     background-image: linear-gradient(rgb(120, 120, 250),rgb(129, 129, 252));
     border: 1px solid black;
@@ -151,10 +148,6 @@
 
 
 #content{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    
     position: relative;
     top: 0px;
 
@@ -211,10 +204,6 @@
 
 
 #products{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-
     position: relative; 
 
     background-color: rgb(129, 236, 255);
@@ -370,8 +359,6 @@
 
 
 #footer{
-    display: flex;
-    
     position: relative; 
 
     background-color: rgb(120, 120, 250);
